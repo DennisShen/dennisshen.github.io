@@ -17,7 +17,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Preprints
 ======
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px; transition: transform 0.3s ease;" class="hover-enlarge">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -36,6 +36,10 @@ Preprints
 
 <style>
 /* Add this CSS to your page or a linked stylesheet */
+.hover-enlarge {
+  transition: transform 0.3s ease;
+}
+
 .hover-enlarge:hover {
   transform: scale(2); /* Enlarge the image */
   z-index: 10; /* Ensure it appears above other elements */
