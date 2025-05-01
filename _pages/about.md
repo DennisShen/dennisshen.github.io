@@ -18,8 +18,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Preprints
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <a href="/images/autocompose.jpg" target="_blank">
-    <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 200px; height: auto; margin-right: 20px; border-radius: 4px;">
+  <a href="/images/autocompose.jpg" target="_blank" style="display: inline-block; margin-right: 20px;">
+    <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 200px; height: auto; margin-right: 20px; border-radius: 4px; display: block;">
   </a>
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
