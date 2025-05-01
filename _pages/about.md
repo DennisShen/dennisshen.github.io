@@ -18,7 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Preprints
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;">
+  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px; transition: transform 0.3s ease;" class="hover-enlarge">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
       AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
@@ -33,6 +33,19 @@ Preprints
     </p>
   </div>
 </div>
+
+<style>
+/* Add this CSS to your page or a linked stylesheet */
+.hover-enlarge:hover {
+  transform: scale(2); /* Enlarge the image */
+  z-index: 10; /* Ensure it appears above other elements */
+  position: absolute; /* Position it above the original layout */
+  top: 0; /* Adjust as needed */
+  left: 160px; /* Adjust to position beside the original image */
+  border: 2px solid #ccc; /* Optional: Add a border for better visibility */
+  background: white; /* Optional: Add a background to avoid overlap issues */
+}
+</style>
 
 Site-wide configuration
 ------
