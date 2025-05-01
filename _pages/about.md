@@ -20,15 +20,15 @@ Preprints
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 200px; height: auto; margin-right: 20px; border-radius: 4px;">
   <div>
-    <h3 style="margin: 0;">
+    <h3 style="margin: 0; font-size: 1em;">
       AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
     </h3>
-    <p style="margin: 5px 0;">
+    <p style="margin: 5px 0; font-size: 0.9em;">
       <strong>Yi-Ting Shen*</strong>, Sungmin Eum*, Doheon Lee, Rohit Shete, Chiao-Yi Wang, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
       <br>
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
     </p>
-    <p style="margin: 0;">
+    <p style="margin: 0; font-size: 0.8em;">
       We introduce AutoComPose, the first framework to automatically generate high-quality, structured pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
     </p>
   </div>
