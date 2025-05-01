@@ -17,10 +17,51 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Preprints
 ======
+<style>
+  .image-container {
+    position: relative;
+    display: inline-block;
+  }
+
+  .zoom-img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+  }
+
+  .zoom-popup {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 220px;
+    z-index: 10;
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .zoom-popup img {
+    width: 400px;
+    height: auto;
+    border-radius: 4px;
+  }
+
+  .image-container:hover .zoom-popup {
+    display: block;
+  }
+</style>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <a href="/images/autocompose.jpg" target="_blank" style="display: inline-block; margin-right: 20px;">
-    <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 200px; height: auto; margin-right: 20px; border-radius: 4px; display: block;">
-  </a>
+  <div class="image-container">
+    <img src="/images/autocompose.jpg" alt="AutoComPose" class="zoom-img">
+    <div class="zoom-popup">
+      <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged">
+    </div>
+  </div>
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
       AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
