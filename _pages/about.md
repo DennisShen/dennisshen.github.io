@@ -15,14 +15,24 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Preprints
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 200px; height: auto; margin-right: 20px; border-radius: 4px;">
+  <div>
+    <h3 style="margin: 0;">
+      AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
+    </h3>
+    <p style="margin: 5px 0;">
+      <strong>Yi-Ting Shen*</strong>, Sungmin Eum*, Doheon Lee, Rohit Shete, Chiao-Yi Wang, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
+    </p>
+    <p style="margin: 0;">
+      We introduce AutoComPose, the first framework to automatically generate high-quality, structured pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
+    </p>
+  </div>
+</div>
 
 Site-wide configuration
 ------
