@@ -77,6 +77,26 @@ Preprints
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/synanalysis.jpg" alt="SynAnalysis" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Exploring the Impact of Synthetic Data for Aerial-view Human Detection
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Hyungtae Lee, Yan Zhang, <strong>Yi-Ting Shen</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <a href="https://arxiv.org/abs/2405.15203">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We investigate key factors influencing sim-to-real transfer in UAV-based human recognition and reveal how strategic selection of synthetic data can significantly improve model performance and domain generalization, offering insights that challenge common misconceptions about synthetic data usage.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synanalysis.jpg" alt="SynAnalysis Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
