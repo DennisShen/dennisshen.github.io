@@ -99,6 +99,7 @@ Preprints
 
 Publications
 ======
+**Conference Papers**
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -121,6 +122,7 @@ Publications
   </div>
 </div>
 
+**Journal Articles**
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/memo.jpg" alt="MEMO" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
