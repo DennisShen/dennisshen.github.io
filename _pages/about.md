@@ -11,15 +11,15 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research focuses on <strong><em>data-efficient</em> machine learning</strong>, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <strong><span style="color: DeepSkyBlue;">aerial-view</span></strong>, <strong><span style="color: DarkSeaGreen;">human-centric</span></strong>, and <strong><span style="color: SandyBrown;">medical</span></strong> perception tasks, where collecting annotated data is especially challenging.
+My research focuses on <strong>data-efficient machine learning</strong>, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: DarkSeaGreen;">human-centric</span>, and <span style="color: SandyBrown;">medical</span> perception tasks, where collecting annotated data is especially challenging.
 
 To realize this vision, I have worked with a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:
-<ul style="padding-left: 20px;">
-  <li><strong>Synthetic Data and Sim-to-Real Adaptation:</strong></li>
-  <li><strong>Generative Models:</strong></li>
-  <li><strong>Weak and Self-Supervised Learning:</strong></li>
-  <li><strong>Multimodal LLMs:</strong></li>
-  <li><strong>Miscellaneous:</strong></li>
+<ul style="margin-top: 0; margin-left: 20px; padding-left: 20px;">
+  <li><strong>Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span></li>
+  <li><strong>Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span></li>
+  <li><strong>Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span></li>
+  <li><strong>Weak and Self-Supervised Learning:</strong> <span style="color: SandyBrown;">MEMO [BOE'24]</span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]</li>
+  <li><strong>Miscellaneous:</strong> <span style="color: DarkSeaGreen;">EgoFall [ICASSP'24]</span>, DDHC [WHISPERS'21]</li>
 </ul>
 
 Preprints
@@ -233,7 +233,7 @@ Publications
       <a href="https://ieeexplore.ieee.org/document/9483973">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We propose a flexible deep learning framework for hyperspectral image classification that learns from discrete cosine transform (DCT) coefficients, enabling efficient accuracy–computation trade-offs and streamlined deployment on resource-constrained platforms.
+      We propose a flexible deep learning framework (DDHC) for hyperspectral image classification that learns from discrete cosine transform (DCT) coefficients, enabling efficient accuracy–computation trade-offs and streamlined deployment on resource-constrained platforms.
     </p>
   </div>
   <div class="enlarged-image-container">
