@@ -32,7 +32,9 @@ Preprints
       We introduce AutoComPose, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
     </p>
   </div>
-  <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" class="hover-enlarge">
+  <div class="enlarged-image-container">
+    <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" class="enlarged-image">
+  </div>
 </div>
 
 <style>
@@ -41,22 +43,23 @@ Preprints
   z-index: 1;
 }
 
-.hover-enlarge {
+.enlarged-image-container {
   display: none;
   position: absolute;
   top: 0;
   left: 160px; /* Adjust to position beside the original image */
+  z-index: 10; /* Ensure it appears above other elements */
+}
+
+.enlarged-image {
   width: 300px; /* Adjust size for enlargement */
   height: auto;
   border: 2px solid #ccc; /* Optional: Add a border for better visibility */
   background: white; /* Optional: Add a background to avoid overlap issues */
-  z-index: 10; /* Ensure it appears above other elements */
-  transition: transform 0.3s ease;
 }
 
-div:hover .hover-enlarge {
+.original-image:hover + .enlarged-image-container {
   display: block;
-  transform: scale(1); /* No additional scaling needed */
 }
 </style>
 
