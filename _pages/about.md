@@ -58,7 +58,7 @@ Preprints
   background: white; /* Optional: Add a background to avoid overlap issues */
 }
 
-.original-image:hover + .enlarged-image-container {
+.original-image:hover ~ .enlarged-image-container {
   display: block;
 }
 </style>
