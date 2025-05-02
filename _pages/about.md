@@ -47,12 +47,12 @@ Preprints
   display: none;
   position: absolute;
   top: 0;
-  left: 160px; /* Adjust to position beside the original image */
+  left: 0; /* Adjust to position beside the original image */
   z-index: 10; /* Ensure it appears above other elements */
 }
 
 .enlarged-image {
-  width: 300px; /* Adjust size for enlargement */
+  width: 450px; /* Adjust size for enlargement */
   height: auto;
   border: 2px solid #ccc; /* Optional: Add a border for better visibility */
   background: white; /* Optional: Add a background to avoid overlap issues */
