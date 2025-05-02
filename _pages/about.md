@@ -110,7 +110,7 @@ Publications
       <br>
       <em>ICASSP 2024</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/document/10447770">[paper]</a>
+      <a href="https://ieeexplore.ieee.org/document/10447770">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose EgoFall, a real-time, privacy-preserving fall risk assessment system that uses a chest-mounted camera and a lightweight CNN-Transformer model to analyze ego-body motion, enabling personalized fall prevention without relying on multiple wearable sensors.
@@ -132,7 +132,7 @@ Publications
       <br>
       <em>Biomedical Optics Express 2024</em>
       <br>
-      <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-5-3457&id=549452">[paper]</a> <a href="https://chiaoyiwang0424.github.io/MEMO/">[dataset]</a>
+      <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-5-3457&id=549452">[Paper]</a> <a href="https://chiaoyiwang0424.github.io/MEMO/">[Dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce MEMO, the first public multimodal EMA-OCTA retinal image dataset, and propose VDD-Reg, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
@@ -140,6 +140,28 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/memo.jpg" alt="MEMO Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/shellcollect.jpg" alt="ShellCollect" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      ShellCollect: A Framework for Smart Precision Shellfish Harvesting Using Data Collection Path Planning
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Chiao-Yi Wang, ADP Guru Nandhan, <strong>Yi-Ting Shen</strong>, Wei-Yu Chen, Sandip Sharan Senthil Kumar, Alexander Long, Alan Williams, Gudjon Magnusson, Allen Pattillo, Don Webster, Matthew Gray, Miao Yu, and Yang Tao
+      <br>
+      <em>IEEE Access 2024</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/10766580">[Paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present ShellCollect, the first smart precision shellfish harvesting framework that plans efficient dredging paths based on underwater oyster distributions, significantly improving harvesting efficiency, and validate its effectiveness through simulation and real-world field tests.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/shellcollect.jpg" alt="ShellCollect Enlarged" class="enlarged-image">
   </div>
 </div>
 
