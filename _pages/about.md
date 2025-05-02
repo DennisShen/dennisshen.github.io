@@ -189,6 +189,28 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/archangel.png" alt="Archangel" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Archangel: A Hybrid UAV-based Human Detection Benchmark with Position and Pose Metadata
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen</strong>, Yaesop Lee, Heesung Kwon, Damon M Conover, Shuvra S. Bhattacharyya, Nikolas Vale, Joshua D Gray, G Jeremy Leong, Kenneth Evensen, and Frank Skirlo
+      <br>
+      <em>IEEE Access 2023</em>
+      <br>
+      <a href="https://arxiv.org/abs/2209.00128">[arxiv]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10196325">[Paper]</a> <a href="https://a2i2-archangel.vision/">[Dataset]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce Archangel, the first UAV-based object detection dataset combining real and synthetic data with detailed metadata on UAV position and object pose, enabling precise model diagnosis and providing new insights into learning robust, variation-invariant detection models.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/archangel.png" alt="Archangel Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
