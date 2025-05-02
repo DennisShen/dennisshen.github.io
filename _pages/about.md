@@ -37,6 +37,26 @@ Preprints
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/synplay.png" alt="SynPlay" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen*</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present Synthetic Playground (SynPlay), a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
@@ -52,7 +72,7 @@ Preprints
 }
 
 .enlarged-image {
-  width: 450px; /* Adjust size for enlargement */
+  width: 600px; /* Adjust size for enlargement */
   height: auto;
   border: 2px solid #ccc; /* Optional: Add a border for better visibility */
   background: white; /* Optional: Add a background to avoid overlap issues */
