@@ -14,7 +14,7 @@ Research
 My research focuses on <em>data-efficient</em> machine learning, with the goal of reducing the human effort required for data annotation and enabling the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: DarkSeaGreen;">human-centric</span>, and <span style="color: SandyBrown;">medical</span> perception tasks, where collecting annotated data is especially challenging.
 
 To advance this vision, I have employed a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span><br>
 <strong>&bull; Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span><br>
