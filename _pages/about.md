@@ -108,7 +108,7 @@ Publications
     <p style="margin: 5px 0; font-size: 0.8em;">
       Chiao-Yi Wang, Faranguisse Kakhi Sadrieh, <strong>Yi-Ting Shen</strong>, Giovanni Oppizzi, Li-Qun Zhang, and Yang Tao
       <br>
-      ICASSP 2024
+      <em>ICASSP 2024</em>
       <br>
       <a href="https://ieeexplore.ieee.org/document/10447770">[paper]</a>
     </p>
@@ -118,6 +118,28 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/egofall.jpg" alt="EgoFall Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/memo.jpg" alt="MEMO" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      MEMO: Dataset and Methods for Robust Multimodal Retinal Image Registration with Large or Small Vessel Density Differences
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Chiao-Yi Wang, Faranguisse Kakhi Sadrieh, <strong>Yi-Ting Shen</strong>, Shih-En Chen, Sarah Kim, Victoria Chen, Achyut Raghavendra, Dongyi Wang, Osamah Saeedi, and Yang Tao
+      <br>
+      <em>Biomedical Optics Express 2024</em>
+      <br>
+      <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-5-3457&id=549452">[paper]</a> <a href="https://chiaoyiwang0424.github.io/MEMO/">[dataset]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce MEMO, the first public multimodal EMA-OCTA retinal image dataset, and propose VDD-Reg, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/memo.jpg" alt="MEMO Enlarged" class="enlarged-image">
   </div>
 </div>
 
