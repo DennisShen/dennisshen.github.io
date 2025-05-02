@@ -24,7 +24,7 @@ To advance this vision, I have employed a broad range of machine learning techni
 
 Preprints
 ======
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -106,8 +106,7 @@ Preprints
 
 Publications
 ======
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -309,8 +308,7 @@ Publications
 
 Thesis
 ======
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
   <img src="/images/depthte.png" alt="DepthTE" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
