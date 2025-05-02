@@ -44,7 +44,7 @@ Preprints
       SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
-      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen*</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
+      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
       <br>
       <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
     </p>
@@ -54,6 +54,26 @@ Preprints
   </div>
   <div class="enlarged-image-container">
     <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Diversifying Human Pose in Synthetic Data for Aerial-view Human Detection
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce SynPoseDiv, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synposediv.jpg" alt="SynPoseDiv Enlarged" class="enlarged-image">
   </div>
 </div>
 
