@@ -97,6 +97,30 @@ Preprints
   </div>
 </div>
 
+Publications
+======
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Real-Time Privacy-Preserving Fall Risk Assessment with a Single Body-Worn Tracking Camera
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Chiao-Yi Wang, Faranguisse Kakhi Sadrieh, <strong>Yi-Ting Shen</strong>, Giovanni Oppizzi, Li-Qun Zhang, and Yang Tao
+      <br>
+      ICASSP 2024
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/10447770">[paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose EgoFall, a real-time, privacy-preserving fall risk assessment system that uses a chest-mounted camera and a lightweight CNN-Transformer model to analyze ego-body motion, enabling personalized fall prevention without relying on multiple wearable sensors.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/egofall.jpg" alt="EgoFall Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
