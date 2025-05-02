@@ -13,12 +13,12 @@ Research
 ======
 My research focuses on <em>data-efficient</em> machine learning, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: DarkSeaGreen;">human-centric</span>, and <span style="color: SandyBrown;">medical</span> perception tasks, where collecting annotated data is especially challenging.
 
-To realize this vision, I have worked with a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span>
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Weak and Self-Supervised Learning:</strong> <span style="color: SandyBrown;">MEMO [BOE'24]</span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]
-&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Miscellaneous:</strong> <span style="color: DarkSeaGreen;">EgoFall [ICASSP'24]</span>, DDHC [WHISPERS'21]
+To realize this vision, I have worked with a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Weak and Self-Supervised Learning:</strong> <span style="color: SandyBrown;">MEMO [BOE'24]</span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Miscellaneous:</strong> <span style="color: DarkSeaGreen;">EgoFall [ICASSP'24]</span>, DDHC [WHISPERS'21]<br>
 
 Preprints
 ======
