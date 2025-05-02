@@ -172,9 +172,11 @@ Publications
       Progressive Transformation Learning for Leveraging Virtual Images in Training
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
-      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
       <br>
       <em>CVPR 2023</em>
+      <br>
+      <span style="color: red;">Selected as a Highlight among the top 10% of accepted papers</span>
       <br>
       <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
     </p>
