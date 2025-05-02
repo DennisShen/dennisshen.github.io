@@ -11,7 +11,16 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research focuses on <em>data-efficient</em> machine learning, aiming to reduce the human effort required for data annotation and facilitate the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: SeaGreen;">human-centric</span>, and <span style="color: Goldenrod;">medical</span> perception tasks, where collecting annotated data is especially challenging.
+My research focuses on <strong><em>data-efficient</em> machine learning</strong>, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <strong><span style="color: DeepSkyBlue;">aerial-view</span></strong>, <strong><span style="color: DarkSeaGreen;">human-centric</span></strong>, and <strong><span style="color: SandyBrown;">medical</span></strong> perception tasks, where collecting annotated data is especially challenging.
+
+To realize this vision, I have worked with a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:
+<ul style="padding-left: 20px;">
+  <li><strong>Synthetic Data and Sim-to-Real Adaptation:</strong></li>
+  <li><strong>Generative Models:</strong></li>
+  <li><strong>Weak and Self-Supervised Learning:</strong></li>
+  <li><strong>Multimodal LLMs:</strong></li>
+  <li><strong>Miscellaneous:</strong></li>
+</ul>
 
 Preprints
 ======
