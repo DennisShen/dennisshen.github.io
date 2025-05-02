@@ -256,6 +256,50 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/deepsortspc.png" alt="DeepSortSPC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Simple Online and Realtime Tracking with Spherical Panoramic Camera
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Keng-Chi Liu*, <strong>Yi-Ting Shen*</strong>, and Liang-Gee Chen (* equal contribution)
+      <br>
+      <em>ICCE 2018</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/8326132">[Paper]</a> <a href="https://github.com/KengChiLiu/MOT360?tab=readme-ov-file">[Dataset]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose a simple yet effective real-time multi-object tracking method tailored for 360-degree panoramic videos, achieving significant performance gains over baselines and introducing two new datasets for comprehensive evaluation.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/deepsortspc.png" alt="DeepSortSPC Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/depthcue.png" alt="DepthCue" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      3D Perception Enhancement in Autostereoscopic TV by Depth cue for 3D Model Interaction
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen</strong>, Guan-Lin Liu, Sih-Sian Wu, and Liang-Gee Chen
+      <br>
+      <em>ICCE 2016</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/7430613">[Paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present an enhanced autostereoscopic TV system that incorporates Human Visual System-based depth cues to significantly improve 3D perception—doubling viewer depth perception compared to conventional systems—and demonstrate its effectiveness through an interactive 3D model application.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/depthcue.png" alt="DepthCue Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
