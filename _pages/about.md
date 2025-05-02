@@ -18,7 +18,12 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Preprints
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
-  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px; transition: transform 0.3s ease;" class="hover-enlarge">
+  <div style="position: relative;">
+    <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="hover-enlarge-original">
+    <div class="hover-enlarge-popup">
+      <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" style="width: 300px; height: auto; border-radius: 4px;">
+    </div>
+  </div>
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
       AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
@@ -36,18 +41,19 @@ Preprints
 
 <style>
 /* Add this CSS to your page or a linked stylesheet */
-.hover-enlarge {
-  transition: transform 0.3s ease;
-}
-
-.hover-enlarge:hover {
-  transform: scale(2); /* Enlarge the image */
-  z-index: 10; /* Ensure it appears above other elements */
-  position: absolute; /* Position it above the original layout */
-  top: 0; /* Adjust as needed */
-  left: 160px; /* Adjust to position beside the original image */
+.hover-enlarge-popup {
+  display: none; /* Initially hide the enlarged image */
+  position: absolute;
+  top: 0;
+  left: 160px; /* Position beside the original image */
+  z-index: 10;
   border: 2px solid #ccc; /* Optional: Add a border for better visibility */
   background: white; /* Optional: Add a background to avoid overlap issues */
+  padding: 5px; /* Optional: Add padding for better appearance */
+}
+
+.hover-enlarge-original:hover + .hover-enlarge-popup {
+  display: block; /* Show the enlarged image on hover */
 }
 </style>
 
