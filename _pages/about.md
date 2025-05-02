@@ -300,6 +300,33 @@ Publications
   </div>
 </div>
 
+Thesis
+======
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/depthte.png" alt="DepthTE" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Self-Supervised Learning of Domain-Specific Depth for Transferable Traversability Estimation with a Single Fisheye Camera
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen</strong>
+      <br>
+      <em>Master Thesis</em>
+      <br>
+      Advisor: Liang-Gee Chen, Ph.D.
+      <br>
+      <a href="https://tdr.lib.ntu.edu.tw/handle/123456789/71498?locale=en">[Online]</a> <a href="https://drive.google.com/file/d/1M7YkesgWuoeVZX4T1dj7P1VB3aB0D80T/view?usp=sharing">[Paper]</a> <a href="https://drive.google.com/file/d/1Tse_RuSItM2cUVjQ291Y-icbnumZfE5O/view?usp=sharing">[Report]</a> <a href="https://drive.google.com/file/d/1l8Z7pJ3JbshEKM-AQ2pUdF6Uf4k7hqbz/view?usp=sharing">[Slides]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose a two-stage convolutional neural network for traversability estimation that leverages domain-specific depth estimation and a universal classifier to achieve high accuracy and strong cross-domain transferability using only a single fisheye camera, making it ideal for real-world, resource-constrained robotic applications.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/depthte.png" alt="DepthTE Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <style>
 /* Add this CSS to your page or a linked stylesheet */
 .original-image {
