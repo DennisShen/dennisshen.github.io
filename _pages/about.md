@@ -11,9 +11,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+My research focuses on <em>data-efficient</em> machine learning, aiming to reduce the human effort required for data annotation and facilitate the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: SeaGreen;">human-centric</span>, and <span style="color: Goldenrod;">medical</span> perception tasks, where collecting annotated data is especially challenging.
 
 Preprints
 ======
@@ -29,7 +27,7 @@ Preprints
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce AutoComPose, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
+      We introduce <em>AutoComPose</em>, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -49,7 +47,7 @@ Preprints
       <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We present Synthetic Playground (SynPlay), a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
+      We present <em>Synthetic Playground (SynPlay)</em>, a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -69,7 +67,7 @@ Preprints
       <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce SynPoseDiv, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
+      We introduce <em>SynPoseDiv</em>, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -114,7 +112,7 @@ Publications
       <a href="https://ieeexplore.ieee.org/document/10447770">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We propose EgoFall, a real-time, privacy-preserving fall risk assessment system that uses a chest-mounted camera and a lightweight CNN-Transformer model to analyze ego-body motion, enabling personalized fall prevention without relying on multiple wearable sensors.
+      We propose <em>EgoFall</em>, a real-time, privacy-preserving fall risk assessment system that uses a chest-mounted camera and a lightweight CNN-Transformer model to analyze ego-body motion, enabling personalized fall prevention without relying on multiple wearable sensors.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -136,7 +134,7 @@ Publications
       <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-5-3457&id=549452">[Paper]</a> <a href="https://chiaoyiwang0424.github.io/MEMO/">[Dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce MEMO, the first public multimodal EMA-OCTA retinal image dataset, and propose VDD-Reg, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
+      We introduce <em>MEMO</em>, the first public multimodal EMA-OCTA retinal image dataset, and propose VDD-Reg, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -158,7 +156,7 @@ Publications
       <a href="https://ieeexplore.ieee.org/document/10766580">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We present ShellCollect, the first smart precision shellfish harvesting framework that plans efficient dredging paths based on underwater oyster distributions, significantly improving harvesting efficiency, and validate its effectiveness through simulation and real-world field tests.
+      We present <em>ShellCollect</em>, the first smart precision shellfish harvesting framework that plans efficient dredging paths based on underwater oyster distributions, significantly improving harvesting efficiency, and validate its effectiveness through simulation and real-world field tests.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -182,7 +180,7 @@ Publications
       <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce Progressive Transformation Learning (PTL), a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
+      We introduce <em>Progressive Transformation Learning (PTL)</em>, a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -204,7 +202,7 @@ Publications
       <a href="https://arxiv.org/abs/2209.00128">[arxiv]</a> <a href="https://ieeexplore.ieee.org/abstract/document/10196325">[Paper]</a> <a href="https://a2i2-archangel.vision/">[Dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce Archangel, the first UAV-based object detection dataset combining real and synthetic data with detailed metadata on UAV position and object pose, enabling precise model diagnosis and providing new insights into learning robust, variation-invariant detection models.
+      We introduce <em>Archangel</em>, the first UAV-based object detection dataset combining real and synthetic data with detailed metadata on UAV position and object pose, enabling precise model diagnosis and providing new insights into learning robust, variation-invariant detection models.
     </p>
   </div>
   <div class="enlarged-image-container">
