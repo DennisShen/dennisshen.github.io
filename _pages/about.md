@@ -11,16 +11,14 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research focuses on <strong>data-efficient machine learning</strong>, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: DarkSeaGreen;">human-centric</span>, and <span style="color: SandyBrown;">medical</span> perception tasks, where collecting annotated data is especially challenging.
+My research focuses on <em>data-efficient</em> machine learning, aiming to reduce the human effort required for data annotation and to enable the broader application of machine learning across diverse domains. I am particularly interested in <span style="color: DeepSkyBlue;">aerial-view</span>, <span style="color: DarkSeaGreen;">human-centric</span>, and <span style="color: SandyBrown;">medical</span> perception tasks, where collecting annotated data is especially challenging.
 
 To realize this vision, I have worked with a broad range of machine learning techniques, as outlined below. Some are color-coded according to the target applications mentioned above:
-<ul style="margin-top: 0; margin-left: 20px; padding-left: 20px;">
-  <li><strong>Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span></li>
-  <li><strong>Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span></li>
-  <li><strong>Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span></li>
-  <li><strong>Weak and Self-Supervised Learning:</strong> <span style="color: SandyBrown;">MEMO [BOE'24]</span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]</li>
-  <li><strong>Miscellaneous:</strong> <span style="color: DarkSeaGreen;">EgoFall [ICASSP'24]</span>, DDHC [WHISPERS'21]</li>
-</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Synthetic Data and Sim-to-Real Adaptation:</strong> <span style="color: DeepSkyBlue;">SynPlay [Preprint]</span>, <span style="color: DeepSkyBlue;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="color: DeepSkyBlue;">Archangel [IEEE Access'23]</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Generative Models:</strong> <span style="color: DeepSkyBlue;">SynPoseDiv [Preprint]</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Multimodal LLMs:</strong> <span style="color: DarkSeaGreen;">AutoComPose [Preprint]</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Weak and Self-Supervised Learning:</strong> <span style="color: SandyBrown;">MEMO [BOE'24]</span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>&bull; Miscellaneous:</strong> <span style="color: DarkSeaGreen;">EgoFall [ICASSP'24]</span>, DDHC [WHISPERS'21]
 
 Preprints
 ======
@@ -143,7 +141,7 @@ Publications
       <a href="https://opg.optica.org/boe/fulltext.cfm?uri=boe-15-5-3457&id=549452">[Paper]</a> <a href="https://chiaoyiwang0424.github.io/MEMO/">[Dataset]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We introduce <em>MEMO</em>, the first public multimodal EMA-OCTA retinal image dataset, and propose VDD-Reg, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
+      We introduce <em>MEMO</em>, the first public multimodal EMA-OCTA retinal image dataset, and propose <em>VDD-Reg</em>, a deep learning framework that enables robust retinal image registration across large vessel density differences, advancing accurate capillary blood flow measurement for ocular disease diagnosis.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -233,7 +231,7 @@ Publications
       <a href="https://ieeexplore.ieee.org/document/9483973">[Paper]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We propose a flexible deep learning framework (DDHC) for hyperspectral image classification that learns from discrete cosine transform (DCT) coefficients, enabling efficient accuracy–computation trade-offs and streamlined deployment on resource-constrained platforms.
+      We propose a flexible deep learning framework (<em>DDHC</em>) for hyperspectral image classification that learns from discrete cosine transform (DCT) coefficients, enabling efficient accuracy–computation trade-offs and streamlined deployment on resource-constrained platforms.
     </p>
   </div>
   <div class="enlarged-image-container">
@@ -326,7 +324,7 @@ Thesis
       <a href="https://tdr.lib.ntu.edu.tw/handle/123456789/71498?locale=en">[Online]</a> <a href="https://drive.google.com/file/d/1M7YkesgWuoeVZX4T1dj7P1VB3aB0D80T/view?usp=sharing">[Paper]</a> <a href="https://drive.google.com/file/d/1Tse_RuSItM2cUVjQ291Y-icbnumZfE5O/view?usp=sharing">[Report]</a> <a href="https://drive.google.com/file/d/1l8Z7pJ3JbshEKM-AQ2pUdF6Uf4k7hqbz/view?usp=sharing">[Slides]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      We propose a two-stage convolutional neural network for traversability estimation that leverages domain-specific depth estimation and a universal classifier to achieve high accuracy and strong cross-domain transferability using only a single fisheye camera, making it ideal for real-world, resource-constrained robotic applications.
+      We propose a two-stage convolutional neural network (<em>D+T-Net</em>) for traversability estimation that leverages domain-specific depth estimation and a universal classifier to achieve high accuracy and strong cross-domain transferability using only a single fisheye camera, making it ideal for real-world, resource-constrained robotic applications.
     </p>
   </div>
   <div class="enlarged-image-container">
