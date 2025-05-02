@@ -18,12 +18,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Preprints
 ======
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
-  <div style="position: relative;">
-    <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="hover-enlarge-original">
-    <div class="hover-enlarge-popup">
-      <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" style="width: 300px; height: auto; border-radius: 4px;">
-    </div>
-  </div>
+  <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
       AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs
@@ -37,23 +32,31 @@ Preprints
       We introduce AutoComPose, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
     </p>
   </div>
+  <img src="/images/autocompose.jpg" alt="AutoComPose Enlarged" class="hover-enlarge">
 </div>
 
 <style>
 /* Add this CSS to your page or a linked stylesheet */
-.hover-enlarge-popup {
-  display: none; /* Initially hide the enlarged image */
-  position: absolute;
-  top: 0;
-  left: 160px; /* Position beside the original image */
-  z-index: 10;
-  border: 2px solid #ccc; /* Optional: Add a border for better visibility */
-  background: white; /* Optional: Add a background to avoid overlap issues */
-  padding: 5px; /* Optional: Add padding for better appearance */
+.original-image {
+  z-index: 1;
 }
 
-.hover-enlarge-original:hover + .hover-enlarge-popup {
-  display: block; /* Show the enlarged image on hover */
+.hover-enlarge {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 160px; /* Adjust to position beside the original image */
+  width: 300px; /* Adjust size for enlargement */
+  height: auto;
+  border: 2px solid #ccc; /* Optional: Add a border for better visibility */
+  background: white; /* Optional: Add a background to avoid overlap issues */
+  z-index: 10; /* Ensure it appears above other elements */
+  transition: transform 0.3s ease;
+}
+
+div:hover .hover-enlarge {
+  display: block;
+  transform: scale(1); /* No additional scaling needed */
 }
 </style>
 
