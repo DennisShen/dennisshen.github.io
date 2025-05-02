@@ -99,7 +99,7 @@ Preprints
 
 Publications
 ======
-**Conference Papers**
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -122,31 +122,6 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
-  <img src="/images/ptl.png" alt="PTL" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      Progressive Transformation Learning for Leveraging Virtual Images in Training
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
-      <br>
-      <em>CVPR 2023</em>
-      <br>
-      <strong style="color: red;">Selected as a Highlight among the top 10% of accepted papers</strong>
-      <br>
-      <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We introduce Progressive Transformation Learning (PTL), a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/ptl.png" alt="PTL Enlarged" class="enlarged-image">
-  </div>
-</div>
-
-**Journal Articles**
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/memo.jpg" alt="MEMO" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -192,6 +167,30 @@ Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/ptl.png" alt="PTL" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Progressive Transformation Learning for Leveraging Virtual Images in Training
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <em>CVPR 2023</em>
+      <br>
+      <strong style="color: red;">Selected as a Highlight among the top 10% of accepted papers</strong>
+      <br>
+      <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce Progressive Transformation Learning (PTL), a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/ptl.png" alt="PTL Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
   <img src="/images/archangel.png" alt="Archangel" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -210,6 +209,50 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/archangel.png" alt="Archangel Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/ddhc.png" alt="DDHC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      DCT-based Hyperspectral Image Classification on Resource-Constrained Platforms
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Eung-Joo Lee, <strong>Yi-Ting Shen</strong>, Lei Pan, Zhu Li, and Shuvra S. Bhattacharyya
+      <br>
+      <em>WHISPERS 2021</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/9483973">[Paper]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose a flexible deep learning framework for hyperspectral image classification that learns from discrete cosine transform (DCT) coefficients, enabling efficient accuracy–computation trade-offs and streamlined deployment on resource-constrained platforms.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/ddhc.png" alt="DDHC Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+  <img src="/images/depthweak.png" alt="DepthWeak" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Keng-Chi Liu, <strong>Yi-Ting Shen</strong>, Jan P Klopp, and Liang-Gee Chen
+      <br>
+      <em>ICCV 2019</em>
+      <br>
+      <a href="https://arxiv.org/abs/1903.09781">[arxiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We propose a novel teacher-student framework for weakly supervised scene parsing that combines synthetic depth-based domain transfer with image-level weak labels via a contour-based integration scheme, significantly narrowing the performance gap to fully supervised methods while reducing annotation effort.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/depthweak.png" alt="DepthWeak Enlarged" class="enlarged-image">
   </div>
 </div>
 
