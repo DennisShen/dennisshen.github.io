@@ -15,7 +15,7 @@ My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> m
 
 To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="background-color: #ffa69e;">Archangel [IEEE Access'23]</span><br>
+<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="background-color: #ffa69e;">Archangel [IEEE Access'23]</span><br>
 <strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;">SynPoseDiv [Preprint]</span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);">AutoComPose [Preprint]</span><br>
 <strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;">MEMO [BOE'24]</span>, <span style="background-color: #aed9e0;">What Synthesis is Missing [ICCV'19]</span>, <span style="background-color: #aed9e0;">D+T-Net [MS Thesis]</span><br>
