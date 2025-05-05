@@ -15,11 +15,11 @@ My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> m
 
 To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit; text-decoration: none;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit; text-decoration: none;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit; text-decoration: none;">Archangel [IEEE Access'23]</a></span><br>
-<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;">SynPoseDiv [Preprint]</span><br>
-<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);">AutoComPose [Preprint]</span><br>
-<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;">MEMO [BOE'24]</span>, <span style="background-color: #aed9e0;">What Synthesis is Missing [ICCV'19]</span>, <span style="background-color: #aed9e0;">D+T-Net [MS Thesis]</span><br>
-<strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);">EgoFall [ICASSP'24]</span>, <span style="background-color: #ffa69e;">DDHC [WHISPERS'21]</span><br>
+<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>
+<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit; text-decoration: none;">SynPoseDiv [Preprint]</a></span><br>
+<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit; text-decoration: none;">AutoComPose [Preprint]</a></span><br>
+<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit; text-decoration: none;">MEMO [BOE'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit; text-decoration: none;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit; text-decoration: none;">D+T-Net [MS Thesis]</a></span><br>
+<strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit; text-decoration: none;">EgoFall [ICASSP'24]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit; text-decoration: none;">DDHC [WHISPERS'21]</a></span><br>
 </div>
 
 Preprints
