@@ -15,7 +15,7 @@ My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> m
 
 To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit; text-decoration: none;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="background-color: #ffa69e;">Archangel [IEEE Access'23]</span><br>
+<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit; text-decoration: none;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit; text-decoration: none;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit; text-decoration: none;">Archangel [IEEE Access'23]</a></span><br>
 <strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;">SynPoseDiv [Preprint]</span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);">AutoComPose [Preprint]</span><br>
 <strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;">MEMO [BOE'24]</span>, <span style="background-color: #aed9e0;">What Synthesis is Missing [ICCV'19]</span>, <span style="background-color: #aed9e0;">D+T-Net [MS Thesis]</span><br>
@@ -24,7 +24,7 @@ To advance this vision, I have explored a broad range of machine learning techni
 
 Preprints
 ======
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="autocompose">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -64,7 +64,7 @@ Preprints
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synposediv">
   <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -84,7 +84,7 @@ Preprints
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synanalysis">
   <img src="/images/synanalysis.jpg" alt="SynAnalysis" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -106,7 +106,7 @@ Preprints
 
 Publications
 ======
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="egofall">
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -128,7 +128,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="memo">
   <img src="/images/memo.jpg" alt="MEMO" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -150,7 +150,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="shellcollect">
   <img src="/images/shellcollect.jpg" alt="ShellCollect" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -172,7 +172,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="ptl">
   <img src="/images/ptl.png" alt="PTL" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -196,7 +196,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="archangel">
   <img src="/images/archangel.png" alt="Archangel" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -218,7 +218,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="ddhc">
   <img src="/images/ddhc.png" alt="DDHC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -240,7 +240,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="depthweak">
   <img src="/images/depthweak.png" alt="DepthWeak" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -262,7 +262,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="deepsortspc">
   <img src="/images/deepsortspc.png" alt="DeepSortSPC" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -284,7 +284,7 @@ Publications
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="depthcue">
   <img src="/images/depthcue.png" alt="DepthCue" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
@@ -308,7 +308,7 @@ Publications
 
 Thesis
 ======
-<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;">
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="depthte">
   <img src="/images/depthte.png" alt="DepthTE" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
