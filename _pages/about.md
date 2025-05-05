@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> machine learning, with the goal of reducing reducing the human effort required for data annotation and to enabling the broader application of machine learning across diverse domains. I am particularly interested in tasks involving <span style="background-color: #ffa69e;">aerial-view</span>, <span style="background-color:rgb(247, 229, 173);">human-centric</span>, <span style="background-color: #b8f2e6;">medical</span>, <span style="background-color: #aed9e0;">robotic</span> perception—areas where obtaining annotated data is especially challenging or where computational resources are limited.
+My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> machine learning, with the goal of reducing the human effort required for data annotation and enabling the broader application of machine learning across diverse domains. I am particularly interested in tasks involving <span style="background-color: #ffa69e;">aerial-view</span>, <span style="background-color:rgb(247, 229, 173);">human-centric</span>, <span style="background-color: #b8f2e6;">medical</span>, <span style="background-color: #aed9e0;">robotic</span> perception, where obtaining annotated data is especially challenging or where computational resources are limited.
 
 To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
