@@ -11,15 +11,15 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> machine learning, with the goal of reducing reducing the human effort required for data annotation and to enabling the broader application of machine learning across diverse domains. I am particularly interested in tasks involving <span style="background-color: #ef476f;">aerial-view</span>, <span style="background-color: #ffd166;">human-centric</span>, <span style="background-color: #06d6a0;">medical</span>, <span style="background-color: #118ab2;">robotic</span> perception—areas where obtaining annotated data is especially challenging or where computational resources are limited.
+My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> machine learning, with the goal of reducing reducing the human effort required for data annotation and to enabling the broader application of machine learning across diverse domains. I am particularly interested in tasks involving <span style="background-color: #ffa69e;">aerial-view</span>, <span style="background-color:rgb(247, 229, 173);">human-centric</span>, <span style="background-color: #b8f2e6;">medical</span>, <span style="background-color: #aed9e0;">robotic</span> perception—areas where obtaining annotated data is especially challenging or where computational resources are limited.
 
-To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior work is color-coded according to its respective application area mentioned above:
+To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ef476f;">SynPlay [Preprint]</span>, <span style="background-color: #ef476f;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="background-color: #ef476f;">Archangel [IEEE Access'23]</span><br>
-<strong>&bull; Generative Models:</strong> <span style="background-color: #ef476f;">SynPoseDiv [Preprint]</span><br>
-<strong>&bull; Multimodal LLMs:</strong> <span style="background-color: #ffd166;">AutoComPose [Preprint]</span><br>
-<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #06d6a0;">MEMO [BOE'24]</span>, <span style="background-color: #118ab2;">What Synthesis is Missing [ICCV'19]</span>, <span style="background-color: #118ab2;">D+T-Net [MS Thesis]</span><br>
-<strong>&bull; Miscellaneous:</strong> <span style="background-color: #ffd166;">EgoFall [ICASSP'24]</span>, <span style="background-color: #ef476f;">DDHC [WHISPERS'21]</span><br>
+<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;">SynPlay [Preprint]</span>, <span style="background-color: #ffa69e;">PTL [CVPR'23, <strong>Highlight</strong>]</span>, <span style="background-color: #ffa69e;">Archangel [IEEE Access'23]</span><br>
+<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;">SynPoseDiv [Preprint]</span><br>
+<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);">AutoComPose [Preprint]</span><br>
+<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;">MEMO [BOE'24]</span>, <span style="background-color: #aed9e0;">What Synthesis is Missing [ICCV'19]</span>, <span style="background-color: #aed9e0;">D+T-Net [MS Thesis]</span><br>
+<strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);">EgoFall [ICASSP'24]</span>, <span style="background-color: #ffa69e;">DDHC [WHISPERS'21]</span><br>
 </div>
 
 Preprints
