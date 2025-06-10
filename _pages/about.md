@@ -16,7 +16,7 @@ My research focuses on <em>data-efficient</em> and <em>resource-efficient</em> m
 To advance this vision, I have explored a broad range of machine learning techniques, summarized below. Each of my prior works is color-coded according to its corresponding application area:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
 <strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>
-<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [Preprint]</a></span><br>
+<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [Preprint]</a></span><br>
 <strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOE'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a></span><br>
 <strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
@@ -64,26 +64,6 @@ Preprints
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synposediv">
-  <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      Diversifying Human Pose in Synthetic Data for Aerial-view Human Detection
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
-      <br>
-      <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We introduce <em>SynPoseDiv</em>, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/synposediv.jpg" alt="SynPoseDiv Enlarged" class="enlarged-image">
-  </div>
-</div>
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synanalysis">
   <img src="/images/synanalysis.jpg" alt="SynAnalysis" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -106,6 +86,28 @@ Preprints
 
 Publications
 ======
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synposediv">
+  <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Diversifying Human Pose in Synthetic Data for Aerial-view Human Detection
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <em>ICIP 2025</em>
+      <br>
+      <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce <em>SynPoseDiv</em>, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synposediv.jpg" alt="SynPoseDiv Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="egofall">
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
