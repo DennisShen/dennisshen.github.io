@@ -19,7 +19,7 @@ To advance this vision, I have explored a broad range of machine learning techni
 <strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [Preprint]</a></span><br>
 <strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOE'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a></span><br>
-<strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
+<strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24, TNSRE'25]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
 </div>
 
 Preprints
@@ -112,14 +112,16 @@ Publications
   <img src="/images/egofall.jpg" alt="EgoFall" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
     <h3 style="margin: 0; font-size: 0.8em;">
-      Real-Time Privacy-Preserving Fall Risk Assessment with a Single Body-Worn Tracking Camera
+      EgoFall: Real-time Privacy-Preserving Fall Risk Assessment with a Single On-Body Tracking Camera
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
       Chiao-Yi Wang, Faranguisse Kakhi Sadrieh, <strong>Yi-Ting Shen</strong>, Giovanni Oppizzi, Li-Qun Zhang, and Yang Tao
       <br>
       <em>ICASSP 2024</em>
       <br>
-      <a href="https://ieeexplore.ieee.org/document/10447770">[Paper]</a>
+      <em>IEEE Transactions on Neural Systems and Rehabilitation Engineering 2025</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/10447770">[Conference Paper]</a> <a href="https://ieeexplore.ieee.org/abstract/document/11027155">[Journal Extension]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We propose <em>EgoFall</em>, a real-time, privacy-preserving fall risk assessment system that uses a chest-mounted camera and a lightweight CNN-Transformer model to analyze ego-body motion, enabling personalized fall prevention without relying on multiple wearable sensors.
