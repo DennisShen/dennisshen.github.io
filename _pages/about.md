@@ -323,7 +323,7 @@ Thesis
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Yi-Ting Shen</strong>
       <br>
-      <em>Master Thesis</em>
+      <em>Master's Thesis</em>
       <br>
       Advisor: Liang-Gee Chen, Ph.D.
       <br>
