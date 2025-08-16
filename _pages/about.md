@@ -11,20 +11,18 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 Research
 ======
-My research centers on <em>data-efficient</em> machine learning, with the overarching goal of minimizing human effort required in data annotation and expanding the accessibility of machine learning across a wide range of domains. I am particularly focused on challenging settings, such as <span style="background-color: #ffa69e;">aerial-view</span>, <span style="background-color:rgb(247, 229, 173);">human-centric</span>, <span style="background-color: #b8f2e6;">medical</span>, <span style="background-color: #aed9e0;">robotic</span> perception, where labeled data is scarce or expensive to obtain, and computational resources may be limited.
+My research centers on <em>data-efficient</em> machine learning, with the goal of minimizing human effort required in data annotation and expanding the accessibility of machine learning across a wide range of domains. I am particularly interested in challenging settings, such as <span style="background-color: #ffa69e;">aerial-view</span>, <span style="background-color:rgb(247, 229, 173);">human-centric</span>, <span style="background-color: #b8f2e6;">medical</span>, <span style="background-color: #aed9e0;">robotic</span> perception, where labeled data is scarce or expensive to obtain, and computational resources may be limited.
 
-To support this vision, I have explored a diverse set of machine learning paradigms, including sim-to-real adaptation, generative modeling, multimodal large language models, and self-supervised learning. My work is driven by both theoretical curiosity and practical relevance, targeting real-world constraints in complex environments.
-
-Below is a summary of my research contributions, categorized by methodology and color-coded by application domain:
+To support this vision, I have explored a diverse set of machine learning paradigms, including the use of synthetic data, generative modeling, and multimodal large language models. Below is a summary of my research contributions, categorized by methodology and color-coded by application domain:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>
+<strong>&bull; Synthetic Data:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>
 <strong>&bull; Generative Modeling:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
-<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [Preprint]</a></span><br>
-<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOE'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a></span><br>
+<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [ICCV'25]</a></span><br>
+<strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a></span><br>
 <strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24, TNSRE'25]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
 </div>
 
-Preprints
+Publications
 ======
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="autocompose">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
@@ -34,6 +32,8 @@ Preprints
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
       <strong>Yi-Ting Shen*</strong>, Sungmin Eum*, Doheon Lee, Rohit Shete, Chiao-Yi Wang, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <em>ICCV 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
     </p>
@@ -46,48 +46,6 @@ Preprints
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synplay">
-  <img src="/images/synplay.png" alt="SynPlay" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
-      <br>
-      <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We present <em>Synthetic Playground (SynPlay)</em>, a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synanalysis">
-  <img src="/images/synanalysis.jpg" alt="SynAnalysis" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      Exploring the Impact of Synthetic Data for Aerial-view Human Detection
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      Hyungtae Lee, Yan Zhang, <strong>Yi-Ting Shen</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya
-      <br>
-      <a href="https://arxiv.org/abs/2405.15203">[arXiv]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We investigate key factors influencing sim-to-real transfer in UAV-based human recognition and reveal how strategic selection of synthetic data can significantly improve model performance and domain generalization, offering insights that challenge common misconceptions about synthetic data usage.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/synanalysis.jpg" alt="SynAnalysis Enlarged" class="enlarged-image">
-  </div>
-</div>
-
-Publications
-======
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synposediv">
   <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -309,6 +267,48 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/depthcue.png" alt="DepthCue Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+Preprints
+======
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synplay">
+  <img src="/images/synplay.png" alt="SynPlay" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      SynPlay: Importing Real-world Diversity for a Synthetic Human Dataset
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present <em>Synthetic Playground (SynPlay)</em>, a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synanalysis">
+  <img src="/images/synanalysis.jpg" alt="SynAnalysis" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Exploring the Impact of Synthetic Data for Aerial-view Human Detection
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Hyungtae Lee, Yan Zhang, <strong>Yi-Ting Shen</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <a href="https://arxiv.org/abs/2405.15203">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We investigate key factors influencing sim-to-real transfer in UAV-based human recognition and reveal how strategic selection of synthetic data can significantly improve model performance and domain generalization, offering insights that challenge common misconceptions about synthetic data usage.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synanalysis.jpg" alt="SynAnalysis Enlarged" class="enlarged-image">
   </div>
 </div>
 
