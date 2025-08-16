@@ -15,7 +15,7 @@ My research centers on <em>data-efficient</em> machine learning, with the goal o
 
 To support this vision, I have explored a diverse set of machine learning paradigms, including the use of synthetic data, generative modeling, and multimodal large language models. Below is a summary of my research contributions, categorized by methodology and color-coded by application domain:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-<strong>&bull; Synthetic Data:</strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>, <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>
+<strong>&bull; Synthetic Data:<span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span><br>, </strong> <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [Preprint]</a></span>
 <strong>&bull; Generative Modeling:</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [ICCV'25]</a></span><br>
 <strong>&bull; Semi-Supervised, Weakly, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a></span>, <span style="background-color: #aed9e0;"><a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a></span><br>
@@ -299,7 +299,7 @@ Preprints
       Exploring the Impact of Synthetic Data for Aerial-view Human Detection
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
-      Hyungtae Lee, Yan Zhang, <strong>Yi-Ting Shen</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya
+      Hyungtae Lee*, Yan Zhang*, <strong>Yi-Ting Shen*</strong>, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
       <br>
       <a href="https://arxiv.org/abs/2405.15203">[arXiv]</a>
     </p>
