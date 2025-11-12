@@ -18,7 +18,7 @@ Below is a summary of my research contributions, organized by methodology and co
 <strong>&bull; Game Engine / Sim-to-Real Adaptation:</strong> <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, <strong>Highlight</strong>]</a></span>, <span style="background-color: #ffa69e;"><a href="#archangel" style="color: inherit;">Archangel [IEEE Access'23]</a></span>, <span style="background-color: #ffa69e;"><a href="#synplay" style="color: inherit;">SynPlay [WACV'26]</a></span><br>
 <strong>&bull; Generative Modeling (e.g., Diffusion Models):</strong> <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
 <strong>&bull; Multimodal Large Language Models:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [ICCV'25]</a></span><br>
-<strong>&bull; Semi-, Weakly-, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, What Synthesis is Missing [ICCV'19], D+T-Net [MS Thesis]<br>
+<strong>&bull; Semi-, Weakly-, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, <a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a>, <a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a><br>
 <strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24, TNSRE'25]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
 </div>
 
@@ -32,6 +32,8 @@ Publications
     </h3>
     <p style="margin: 5px 0; font-size: 0.8em;">
       Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <em>WACV 2026</em>
       <br>
       <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
     </p>
@@ -55,7 +57,7 @@ Publications
       <br>
       <em>ICCV 2025</em>
       <br>
-      <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a>
+      <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a> <a href="https://github.com/DennisShen/AutoComPose">[Code]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce <em>AutoComPose</em>, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
