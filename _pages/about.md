@@ -318,6 +318,25 @@ Preprints
 
 Others
 ======
+<div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="phddissertation">
+  <img src="/images/phd_dissertation.png" alt="phddissertation" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Tackling Data Scarcity in Human-Centric Vision: From UAV-Based Detection to Multimodal Pose Understanding
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen</strong>
+      <br>
+      <em>Ph.D. Dissertation</em>
+      <br>
+      Advisor: Shuvra S. Bhattacharyya, Ph.D.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/phd_dissertation.png" alt="phddissertation Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="depthte">
   <img src="/images/depthte.png" alt="DepthTE" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
