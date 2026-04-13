@@ -330,6 +330,11 @@ Others
       <em>Ph.D. Dissertation</em>
       <br>
       Advisor: Shuvra S. Bhattacharyya, Ph.D.
+      <br>
+      <a href="#archangel" style="color: inherit;">[Archangel]</a> <a href="#ptl" style="color: inherit;">[PTL]</a> <a href="#synposediv" style="color: inherit;">[SynPoseDiv]</a> <a href="#autocompose" style="color: inherit;">[AutoComPose]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      My dissertation addresses data scarcity in human-centric vision by designing datasets, improving sim-to-real learning with synthetic data, and enabling scalable multimodal annotation.
     </p>
   </div>
   <div class="enlarged-image-container">
