@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at the [University of Maryland, College Park](https://ece.umd.edu/), working with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/home/) at National Taiwan University, where I was advised by [Prof. Liang-Gee Chen](https://www.ee.ntu.edu.tw/profile1.php?id=26) in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
+I am a Ph.D. in Electrical and Computer Engineering at the [University of Maryland, College Park](https://ece.umd.edu/) (graduating in May 2026), where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/home/) at National Taiwan University, where I was advised by [Prof. Liang-Gee Chen](https://www.ee.ntu.edu.tw/profile1.php?id=26) in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
 
 Research Overview
 ======
