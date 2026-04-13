@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. in Electrical and Computer Engineering at the [University of Maryland, College Park](https://ece.umd.edu/) (graduating in May 2026), where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the [Graduate Institute of Electronics Engineering](https://giee.ntu.edu.tw/en/home/) at National Taiwan University, where I was advised by [Prof. Liang-Gee Chen](https://www.ee.ntu.edu.tw/profile1.php?id=26) in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from [National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php).
+<b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b>
+
+I am a Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park (graduating in May 2026), where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the Graduate Institute of Electronics Engineering at National Taiwan University, where I was advised by Prof. Liang-Gee Chen in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from National Taiwan University.
 
 Research Overview
 ======
-My research focuses on <strong>synthetic data generation and utilization</strong>, with the goal of reducing the human effort required for data annotation and making machine learning more accessible across a wide range of applications. These include <span style="background-color: #ffa69e;">aerial perception</span>, <span style="background-color:rgb(247, 229, 173);">human pose analysis</span>, and <span style="background-color: #b8f2e6;">medical imaging</span>—domains where labeled data are often scarce or expensive to obtain, and computational resources may be limited. To advance this goal, I explore a broad range of machine learning paradigms, including game engine–based data synthesis, domain adaptation, generative models (e.g., GANs, diffusion models), and multimodal large language models (LLMs). 
+My research focuses on <strong>synthetic data generation, multimodal generative models, and learning under domain shift</strong>, with the goal of reducing the human effort required for data annotation and making machine learning more accessible across a wide range of applications. These include <span style="background-color: #ffa69e;">aerial perception</span>, <span style="background-color:rgb(247, 229, 173);">human pose analysis</span>, and <span style="background-color: #b8f2e6;">medical imaging</span>—domains where labeled data are often scarce or expensive to obtain, and computational resources may be limited. To advance this goal, I explore a broad range of machine learning paradigms, including game engine–based data synthesis, domain adaptation, generative models (e.g., GANs, diffusion models), and multimodal large language models (LLMs). 
 
 Below is a summary of my research contributions, organized by methodology and color-coded by application domain:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
@@ -314,7 +316,7 @@ Preprints
   </div>
 </div>
 
-Thesis
+Others
 ======
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="depthte">
   <img src="/images/depthte.png" alt="DepthTE" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
