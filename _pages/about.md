@@ -24,16 +24,24 @@ I have estensive experience across a broad range of machine learning paradigms, 
     <a href="#synplay">SynPlay</a> (WACV 2026)<br>
   </span>
   <strong>&bull; Generative Modeling for Data Diversity:</strong><br> 
+  <span style="margin-left: 1em;">
     <a href="#synposediv">SynPoseDiv</a> (ICIP 2025)<br>
+  </span>
   <strong>&bull; Multimodal LLMs &amp; VLMs:</strong><br>
+  <span style="margin-left: 1em;"> 
     <a href="#autocompose">AutoComPose</a> (ICCV 2025)<br>
+  </span>
   <strong>&bull; Learning with Limited Supervision:</strong><br> 
-  <a href="#memo">MEMO</a> (BOEx 2024), 
-  <a href="#depthweak">What Synthesis is Missing</a> (ICCV 2019), 
-  <a href="#depthte">D+T-Net</a> (M.S. Thesis)<br>
-  <strong>&bull; Edge & Resource-Constrained Applications:</strong><br> 
-  <a href="#egofall">EgoFall</a> (ICASSP 2024; TNSRE 2025), 
-  <a href="#ddhc">DDHC</a> (WHISPERS 2021)<br>
+  <span style="margin-left: 1em;">
+    <a href="#memo">MEMO</a> (BOEx 2024), 
+    <a href="#depthweak">What Synthesis is Missing</a> (ICCV 2019), 
+    <a href="#depthte">D+T-Net</a> (M.S. Thesis)<br>
+  </span>
+  <strong>&bull; Edge & Resource-Constrained Applications:</strong><br>
+  <span style="margin-left: 1em;"> 
+    <a href="#egofall">EgoFall</a> (ICASSP 2024; TNSRE 2025), 
+    <a href="#ddhc">DDHC</a> (WHISPERS 2021)<br>
+  </span>
 </div>
 
 Publications
