@@ -17,17 +17,14 @@ My research focuses on <strong>synthetic data generation</strong>, <strong>gener
 
 I have estensive experience across a broad range of machine learning paradigms, including 3D engine–based data synthesis, sim-to-real adaptation, generative modeling (e.g., GANs and diffusion models), vision-language models (VLMs such as CLIP), and multimodal large language models (LLMs). Some representative projects include:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-  <strong>&bull; Synthetic Data &amp; Sim-to-Real Adaptation:</strong> 
-  <p>
+  <strong>&bull; Synthetic Data &amp; Sim-to-Real Adaptation:</strong><br> 
     <a href="#ptl">PTL</a> (CVPR 2023, Highlight),
     <a href="#archangel">Archangel</a> (IEEE Access 2023), 
-    <a href="#synplay">SynPlay</a> (WACV 2026)
-  </p>
-  <strong>&bull; Generative Modeling for Data Diversity:</strong> 
-  <p>
-    <a href="#synposediv">SynPoseDiv</a> (ICIP 2025)
-  </p>
-<strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [ICCV'25]</a></span><br>
+    <a href="#synplay">SynPlay</a> (WACV 2026)<br>
+  <strong>&bull; Generative Modeling for Data Diversity:</strong><br> 
+    <a href="#synposediv">SynPoseDiv</a> (ICIP 2025)<br>
+  <strong>&bull; Multimodal LLMs &amp; VLMs:</strong><br>
+  <a href="#autocompose">AutoComPose</a> (ICCV 2025)<br>
 <strong>&bull; Semi-, Weakly-, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, <a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a>, <a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a><br>
 <strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24, TNSRE'25]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
 </div>
