@@ -13,17 +13,20 @@ I am a Ph.D. in Electrical and Computer Engineering at the University of Marylan
 
 Research Overview
 ======
-My research focuses on <strong>synthetic data generation</strong>, <strong>generative models</strong>, <strong>multimodal learning</strong>, and <strong>learning under domain shift</strong>. I am particularly interested in building robust and generalizable machine learning systems for real-world, human-centric applications, including aerial human perception, multimodal pose understanding and reasoning, and healthcare-related tasks. 
+My research focuses on <strong>synthetic data generation</strong>, <strong>generative models</strong>, <strong>multimodal learning</strong>, and <strong>learning under domain shift</strong>. I am particularly interested in building robust and generalizable machine learning systems for real-world, human-centric applications, including aerial human perception, multimodal pose understanding and reasoning, healthcare. 
 
 I have estensive experience across a broad range of machine learning paradigms, including 3D engine–based data synthesis, sim-to-real adaptation, generative modeling (e.g., GANs and diffusion models), vision-language models (VLMs such as CLIP), and multimodal large language models (LLMs). Some representative projects include:
 <div style="font-size: 0.9em; margin-top: 0; margin-bottom: 20px;">
-  <strong>&bull; Synthetic Data &amp; Sim-to-Real Transfer:</strong> 
+  <strong>&bull; Synthetic Data &amp; Sim-to-Real Adaptation:</strong> 
   <p>
     <a href="#ptl">PTL</a> (CVPR 2023, Highlight),
     <a href="#archangel">Archangel</a> (IEEE Access 2023), 
     <a href="#synplay">SynPlay</a> (WACV 2026)
   </p>
-<strong>&bull; Generative Models:</strong> <span style="background-color: #ffa69e;"><a href="#ptl" style="color: inherit;">PTL [CVPR'23, Highlight]</a></span>, <span style="background-color: #ffa69e;"><a href="#synposediv" style="color: inherit;">SynPoseDiv [ICIP'25]</a></span><br>
+  <strong>&bull; Generative Modeling for Data Diversity:</strong> 
+  <p>
+    <a href="#synposediv">SynPoseDiv</a> (ICIP 2025)
+  </p>
 <strong>&bull; Multimodal LLMs:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#autocompose" style="color: inherit;">AutoComPose [ICCV'25]</a></span><br>
 <strong>&bull; Semi-, Weakly-, and Self-Supervised Learning:</strong> <span style="background-color: #b8f2e6;"><a href="#memo" style="color: inherit;">MEMO [BOEx'24]</a></span>, <a href="#depthweak" style="color: inherit;">What Synthesis is Missing [ICCV'19]</a>, <a href="#depthte" style="color: inherit;">D+T-Net [MS Thesis]</a><br>
 <strong>&bull; Miscellaneous:</strong> <span style="background-color:rgb(247, 229, 173);"><a href="#egofall" style="color: inherit;">EgoFall [ICASSP'24, TNSRE'25]</a></span>, <span style="background-color: #ffa69e;"><a href="#ddhc" style="color: inherit;">DDHC [WHISPERS'21]</a></span><br>
