@@ -22,7 +22,7 @@ repository               : "DennisShen/dennisshen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0203.jpg"
+  avatar           : "yt_head_lake_3.jpg"
   name             : "Yi-Ting Shen" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
   bio              : "PhD, ECE @ UMD | Computer Vision | Synthetic Data | Generative Models | Multimodal Learning"
