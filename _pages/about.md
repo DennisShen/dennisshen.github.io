@@ -86,7 +86,7 @@ Research Highlights
       <br>
       <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
     </p>
-    <p style="margin: 0; font-size: 0.8em; color: #666;">
+    <p style="margin: 0; font-size: 0.8em; color: #b4b4b4;">
       Synthetic Data · GANs · Domain Adaptation · Object Detection
     </p>
     <p style="margin: 0; font-size: 0.8em;">
@@ -111,7 +111,7 @@ Research Highlights
       <br>
       <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
     </p>
-    <p style="margin: 0; font-size: 0.8em; color: #666;">
+    <p style="margin: 0; font-size: 0.8em; color: #b4b4b4;">
       Diffusion Models · Pose Generation · Image Generation
     </p>
     <p style="margin: 0; font-size: 0.8em;">
