@@ -9,7 +9,7 @@ redirect_from:
 
 <b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b>
 
-I am a Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park (graduating in May 2026), where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the Graduate Institute of Electronics Engineering at National Taiwan University, where I was advised by Prof. Liang-Gee Chen in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from National Taiwan University.
+I recently earned my Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park, where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the Graduate Institute of Electronics Engineering at National Taiwan University, where I was advised by Prof. Liang-Gee Chen in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from National Taiwan University.
 
 Research Overview
 ======
@@ -44,7 +44,7 @@ I have extensive experience across a broad range of machine learning paradigms, 
   </span>
 </div>
 
-Selected Publications
+Research Highlights
 ======
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="autocompose">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
