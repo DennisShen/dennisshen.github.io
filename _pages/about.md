@@ -60,7 +60,7 @@ Research Highlights
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a> <a href="https://github.com/DennisShen/AutoComPose">[Code]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
-      Multimodal LLMs · VLMs · CLIP · Pose Understanding & Reasoning
+      <strong>Keywords:</strong> Multimodal LLMs · VLMs · CLIP · Pose Understanding & Reasoning
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce <em>AutoComPose</em>, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
@@ -87,6 +87,9 @@ Research Highlights
       <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
+      <strong>Keywords:</strong> Synthetic Data · GANs · Domain Adaptation · Object Detection
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
       We introduce <em>Progressive Transformation Learning (PTL)</em>, a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
     </p>
   </div>
@@ -107,6 +110,9 @@ Research Highlights
       <em>ICIP 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2405.15939">[arXiv]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      <strong>Keywords:</strong> Diffusion Models · Pose Generation · Conditional Image Generation
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce <em>SynPoseDiv</em>, a novel framework that enhances synthetic aerial-view datasets by generating realistic and diverse 3D human poses using diffusion models and image translation, leading to significantly improved detection accuracy, especially in low-shot scenarios.
