@@ -44,30 +44,8 @@ I have extensive experience across a broad range of machine learning paradigms, 
   </span>
 </div>
 
-Publications
+Selected Publications
 ======
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synplay">
-  <img src="/images/synplay.png" alt="SynPlay" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      SynPlay: Large-Scale Synthetic Human Data with Real-World Diversity for Aerial-View Perception
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
-      <br>
-      <em>WACV 2026</em>
-      <br>
-      <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We present <em>Synthetic Playground (SynPlay)</em>, a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
-  </div>
-</div>
-
 <div style="display: flex; align-items: flex-start; margin-top: 20px; margin-bottom: 20px; position: relative;" id="autocompose">
   <img src="/images/autocompose.jpg" alt="AutoComPose" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -90,6 +68,30 @@ Publications
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="ptl">
+  <img src="/images/ptl.png" alt="PTL" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      Progressive Transformation Learning for Leveraging Virtual Images in Training
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
+      <br>
+      <em>CVPR 2023</em>
+      <br>
+      <strong style="color: red;">Selected as a Highlight among the top 10% of accepted papers</strong>
+      <br>
+      <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We introduce <em>Progressive Transformation Learning (PTL)</em>, a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/ptl.png" alt="PTL Enlarged" class="enlarged-image">
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synposediv">
   <img src="/images/synposediv.jpg" alt="SynPoseDiv" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
   <div>
@@ -109,6 +111,30 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/synposediv.jpg" alt="SynPoseDiv Enlarged" class="enlarged-image">
+  </div>
+</div>
+
+Publications
+======
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="synplay">
+  <img src="/images/synplay.png" alt="SynPlay" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
+  <div>
+    <h3 style="margin: 0; font-size: 0.8em;">
+      SynPlay: Large-Scale Synthetic Human Data with Real-World Diversity for Aerial-View Perception
+    </h3>
+    <p style="margin: 5px 0; font-size: 0.8em;">
+      Jinsub Yim, Hyungtae Lee, Sungmin Eum, <strong>Yi-Ting Shen</strong>, Yan Zhang, Heesung Kwon, and Shuvra S. Bhattacharyya
+      <br>
+      <em>WACV 2026</em>
+      <br>
+      <a href="https://arxiv.org/abs/2408.11814">[arXiv]</a> <a href="https://synplaydataset.github.io/">[Project]</a>
+    </p>
+    <p style="margin: 0; font-size: 0.8em;">
+      We present <em>Synthetic Playground (SynPlay)</em>, a large-scale synthetic human dataset with diverse motions and camera viewpoints—especially aerial views—that significantly improves human identification performance in challenging, data-scarce scenarios like few-shot learning and cross-domain adaptation.
+    </p>
+  </div>
+  <div class="enlarged-image-container">
+    <img src="/images/synplay.png" alt="SynPlay Enlarged" class="enlarged-image">
   </div>
 </div>
 
@@ -177,30 +203,6 @@ Publications
   </div>
   <div class="enlarged-image-container">
     <img src="/images/shellcollect.jpg" alt="ShellCollect Enlarged" class="enlarged-image">
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; position: relative;" id="ptl">
-  <img src="/images/ptl.png" alt="PTL" style="width: 150px; height: auto; margin-right: 20px; border-radius: 4px;" class="original-image">
-  <div>
-    <h3 style="margin: 0; font-size: 0.8em;">
-      Progressive Transformation Learning for Leveraging Virtual Images in Training
-    </h3>
-    <p style="margin: 5px 0; font-size: 0.8em;">
-      <strong>Yi-Ting Shen*</strong>, Hyungtae Lee*, Heesung Kwon, and Shuvra S. Bhattacharyya (* equal contribution)
-      <br>
-      <em>CVPR 2023</em>
-      <br>
-      <strong style="color: red;">Selected as a Highlight among the top 10% of accepted papers</strong>
-      <br>
-      <a href="https://arxiv.org/abs/2211.01778">[arxiv]</a> <a href="https://gitlab.umiacs.umd.edu/dspcad/ptl-release">[Code]</a> <a href="https://www.youtube.com/watch?v=-P1pyGn-1zw&ab_channel=Yi-TingShen">[Video]</a>
-    </p>
-    <p style="margin: 0; font-size: 0.8em;">
-      We introduce <em>Progressive Transformation Learning (PTL)</em>, a novel framework that progressively transforms and selects virtual UAV images based on domain gap measurements to enhance realism and improve object detection performance, particularly in low-data and cross-domain scenarios.
-    </p>
-  </div>
-  <div class="enlarged-image-container">
-    <img src="/images/ptl.png" alt="PTL Enlarged" class="enlarged-image">
   </div>
 </div>
 
