@@ -59,7 +59,7 @@ Research Highlights
       <br>
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a> <a href="https://github.com/DennisShen/AutoComPose">[Code]</a>
     </p>
-    <p style="margin: 0; font-size: 0.8em; color: #cacaca;">
+    <p style="margin: 0; font-size: 0.8em; color: #b4b4b4;">
       Multimodal LLMs · VLMs · CLIP · Pose Understanding & Reasoning
     </p>
     <p style="margin: 0; font-size: 0.8em;">
