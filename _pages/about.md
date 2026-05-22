@@ -58,6 +58,8 @@ Research Highlights
       <em>ICCV 2025</em>
       <br>
       <a href="https://arxiv.org/abs/2503.22884">[arXiv]</a> <a href="https://github.com/DennisShen/AutoComPose">[Code]</a>
+      <br>
+      Keywords: Multimodal LLMs · VLMs · Human Pose Understanding & Reasoning
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       We introduce <em>AutoComPose</em>, the first framework to automatically generate pose transition annotations using multimodal large language models, significantly improving composed pose retrieval performance while reducing reliance on costly human labeling.
