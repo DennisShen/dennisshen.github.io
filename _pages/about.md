@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b>
+<!-- <b>🔍 I am actively seeking full-time research or industry positions starting in Summer 2026.</b> -->
 
-I recently earned my Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park, where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the Graduate Institute of Electronics Engineering at National Taiwan University, where I was advised by Prof. Liang-Gee Chen in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from National Taiwan University.
+I am currently an Applied Scientist at Amazon.
+
+I earned my Ph.D. in Electrical and Computer Engineering at the University of Maryland, College Park, where I worked with [Prof. Shuvra S. Bhattacharyya](https://user.eng.umd.edu/~ssb/) in the [Maryland DSPCAD Research Group](https://code.umd.edu/dspcad-pub/dspcadwiki/-/wikis/Maryland-DSPCAD-Research-Group). I received my M.S. degree from the Graduate Institute of Electronics Engineering at National Taiwan University, where I was advised by Prof. Liang-Gee Chen in the [DSPIC Lab](https://homepage.ntu.edu.tw/~lgchen/index.html). I earned my B.S. degree in Electrical Engineering from National Taiwan University.
 
 Research Overview
 ======
@@ -362,7 +364,7 @@ Others
       <br>
       Advisor: Shuvra S. Bhattacharyya, Ph.D.
       <br>
-      <a href="#archangel">[Archangel]</a> <a href="#ptl">[PTL]</a> <a href="#synposediv">[SynPoseDiv]</a> <a href="#autocompose">[AutoComPose]</a>
+      <a href="https://drum.lib.umd.edu/items/41afc26d-1355-4d6d-a36a-85c313448557">[Dissertation]</a>
     </p>
     <p style="margin: 0; font-size: 0.8em;">
       My dissertation addresses data scarcity in human-centric vision by designing datasets, improving sim-to-real learning with synthetic data, and enabling scalable multimodal annotation.

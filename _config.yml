@@ -25,9 +25,9 @@ author:
   avatar           : "yt_head_lake_3.jpg"
   name             : "Yi-Ting Shen" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
-  bio              : "PhD, ECE @ UMD | Computer Vision | Synthetic Data | Generative Models | Multimodal Learning"
-  location         : "College Park, MD, USA" # Location to display in the sidebar
-  employer         : "University of Maryland"
+  bio              : "Applied Scientist @ Amazon | Vision-Language Models | Computer Vision | Multimodal AI | Generative AI | PhD, ECE @ UMD"
+  location         : "Seattle, WA, USA" # Location to display in the sidebar
+  employer         : "Amazon"
   uri              : # URL
   email            : "dennis45677@gmail.com" 
 
